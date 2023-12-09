@@ -1,6 +1,5 @@
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁<br>
 ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ − ❐ 🞮 ▉
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔<br>
  [📂](https://plexos.neocities.org) **Devlog**<br>
 ⠀┝━ [📄 Introduction To Plexos](https://plexos.neocities.org/entry.html?blog=1)<br>
 ⠀┕━ [📄 Sources Of Inspiration](https://plexos.neocities.org/entry.html?blog=2)<br>

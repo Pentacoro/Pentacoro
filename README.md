@@ -15,4 +15,3 @@
 ⠀⠀⠀⠀ ┝━ [🎞️ Monster [Resident Evil] [AMV]](https://www.youtube.com/watch?v=GYCgF_-URj0)<br>
 ⠀⠀⠀⠀ ┕━ [🎞️ Medicinal Spray [MGSV] [MOD]](https://www.youtube.com/watch?v=8lm00VEhMJo)<br>
 ⠀ [📦 plexos.app](https://pentacoro.github.io)<br>
-└──────────────────────────────┘
